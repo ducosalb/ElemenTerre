@@ -1,0 +1,29 @@
+Aug  5 12:05:18 10.71.57.0 tmp105358528-3209 Connection from 10.71.57.0 port 56046 on 82.165.88.81 port 22
+Aug  5 12:05:18 10.71.57.0 tmp105358528-3209 Accepted password for tmp105358528-3209 from 10.71.57.0 port 56046 ssh2
+Aug  5 12:05:18 10.71.57.0 tmp105358528-3209 Starting session: subsystem 'sftp' for tmp105358528-3209 from 10.71.57.0 port 56046 id 0
+Aug  5 12:05:18 10.71.57.0 tmp105358528-3209 session opened for local user tmp105358528-3209 from [10.71.57.0]
+Aug  5 12:05:21 10.71.57.0 tmp105358528-3209 open "/index.html" flags READ mode 0666
+Aug  5 12:05:21 10.71.57.0 tmp105358528-3209 close "/index.html" bytes read 28926 written 0
+Aug  5 12:05:21 10.71.57.0 tmp105358528-3209 [10.71.57.0|get|0|28926|0|0|0|2f696e6465782e68746d6c|]
+Aug  5 12:05:23 10.71.57.0 tmp105358528-2404 Connection from 10.71.57.0 port 63892 on 82.165.88.81 port 22
+Aug  5 12:05:23 10.71.57.0 tmp105358528-2404 Accepted password for tmp105358528-2404 from 10.71.57.0 port 63892 ssh2
+Aug  5 12:07:24 10.71.57.0 tmp105358528-3209 open "/index.html" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug  5 12:07:24 10.71.57.0 tmp105358528-3209 close "/index.html" bytes read 0 written 28919
+Aug  5 12:07:24 10.71.57.0 tmp105358528-3209 [10.71.57.0|put|1|28919|0|0|0|2f696e6465782e68746d6c|]
+Aug  5 13:07:25 10.71.57.0 tmp105358528-3209 session closed for local user tmp105358528-3209 from [10.71.57.0]
+Aug  5 13:07:25 10.71.57.0 tmp105358528-3209 Connection closed by 10.71.57.0 port 56046
+Aug  5 13:07:25 10.71.57.0 tmp105358528-2404 Connection closed by 10.71.57.0 port 63892
+Aug  7 08:30:17 10.71.56.0 u105358528 Connection from 10.71.56.0 port 43586 on 82.165.88.81 port 22
+Aug  7 08:30:25 10.71.56.0 u105358528 Accepted password for u105358528 from 10.71.56.0 port 43586 ssh2
+Aug  7 08:30:26 10.71.56.0 u105358528 Starting session: subsystem 'sftp' for u105358528 from 10.71.56.0 port 43586 id 0
+Aug  7 08:30:26 10.71.56.0 u105358528 session opened for local user u105358528 from [10.71.56.0]
+Aug  7 08:33:50 10.71.56.0 u105358528 session closed for local user u105358528 from [10.71.56.0]
+Aug  7 08:33:50 10.71.56.0 u105358528 Received disconnect from 10.71.56.0 port 43586:11: 
+Aug  7 08:35:43 10.71.56.0 u105358528 Connection from 10.71.56.0 port 61838 on 82.165.88.81 port 22
+Aug  7 08:35:47 10.71.56.0 u105358528 Accepted password for u105358528 from 10.71.56.0 port 61838 ssh2
+Aug  7 08:35:47 10.71.56.0 u105358528 Starting session: subsystem 'sftp' for u105358528 from 10.71.56.0 port 61838 id 0
+Aug  7 08:35:47 10.71.56.0 u105358528 session opened for local user u105358528 from [10.71.56.0]
+Aug  7 08:36:32 10.71.56.0 u105358528 Connection from 10.71.56.0 port 53178 on 82.165.88.81 port 22
+Aug  7 08:36:38 10.71.56.0 u105358528 Accepted password for u105358528 from 10.71.56.0 port 53178 ssh2
+Aug  7 08:36:38 10.71.56.0 u105358528 Starting session: subsystem 'sftp' for u105358528 from 10.71.56.0 port 53178 id 0
+Aug  7 08:36:38 10.71.56.0 u105358528 session opened for local user u105358528 from [10.71.56.0]
