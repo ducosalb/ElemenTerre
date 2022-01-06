@@ -27,6 +27,12 @@
 
 
   <link href="assets/css/style.css" rel="stylesheet">
+  <!-- Redirection automatique -->
+  <?php
+    header("Status: 301 Moved Permanently", false, 301);
+    header("Location: https://ecoleelementerre.fr/ElemenTerre/");
+    exit();
+  ?>
 
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-LJBD874NJF"></script>
