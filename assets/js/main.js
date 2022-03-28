@@ -260,7 +260,7 @@
    */
   new Swiper('.articles-slider', {
     speed: 600,
-    loop: false, //Mettre à true quand plus de 2
+    loop: true, //Mettre à true quand plus de 2
     autoplay: {
       delay: 5000,
       disableOnInteraction: false
