@@ -182,6 +182,10 @@
     selector: '.actu-lightbox'
   });
 
+  const articleLightbox = GLightbox({
+    selector: '.article-lightbox'
+  });
+
   /**
    * actu details slider
    */
